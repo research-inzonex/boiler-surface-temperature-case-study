@@ -1,0 +1,4 @@
+element,geometry,cad_area_m2,surface_area_m2_plus12pct,bare_surface_C_FLIR,insulated_surface_C_FLIR,insulated_surface_C_model_ISO12241_100mm,ambient_C,touch_safe_ISO13732_1,excess_temp_reduction_pct
+Front door,flat (door),2.08,2.33,96,30,28.1,25.0,yes,93.0
+Boiler burner flange,ring/flange,0.76,0.85,146,30,30.2,25.0,yes,95.9
+Steam valves,valve+piping,0.4,0.45,190,36,32.1,25.0,yes,93.3
