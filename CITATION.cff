@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the Zenodo record below."
+title: "Surface-temperature dataset for modular removable insulation on irregular industrial components: steam-boiler case study"
+type: dataset
+authors:
+  - family-names: Aheiev
+    given-names: Dmytro
+    orcid: "https://orcid.org/0009-0001-5512-0291"
+    affiliation: Inzonex
+  - family-names: Gunin
+    given-names: Artem
+    orcid: "https://orcid.org/0009-0007-7853-3244"
+    affiliation: Inzonex
+  - family-names: Kruhlov
+    given-names: Danylo
+    orcid: "https://orcid.org/0009-0003-2313-7923"
+    affiliation: Inzonex
+  - family-names: Bilous
+    given-names: Nataliia
+    orcid: "https://orcid.org/0009-0003-0877-4940"
+    affiliation: Inzonex
+  - family-names: Didenko
+    given-names: Pavlo
+    orcid: "https://orcid.org/0009-0008-8546-0052"
+    affiliation: Inzonex
+version: "2.0"
+doi: 10.5281/zenodo.21810802
+license: CC-BY-4.0
+url: "https://inzonex.co.uk/calc/methodology/"
